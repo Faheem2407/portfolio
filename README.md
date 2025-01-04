@@ -52,7 +52,7 @@ You can reach out to me directly from the **Contact** section on my portfolio we
 
 ## Portfolio Link
 
-You can view my portfolio live at [https://faheem24072000.github.io/portfolio](https://faheem2407.github.io/portfolio).
+You can view my portfolio live at [https://faheem2407.github.io/portfolio](https://faheem2407.github.io/portfolio).
 
 ---
 
